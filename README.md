@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mabmahmud
+- 👋 Hi, I’m Mohammad Rahman
 - 👀 I’m interested to be a full stack software developer along with na automated testing expert and near future to be a data scientist.
 - 🌱 I’m currently learning Pythpn for data science and acheiving some online certifications.
 - 💞️ I’m looking to collaborate on ...
